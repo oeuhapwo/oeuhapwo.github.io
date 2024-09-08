@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://oeuhapwo.github.io/sitemap/sitemap.txt
